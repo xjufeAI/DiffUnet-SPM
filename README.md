@@ -1,3 +1,8 @@
+# DiffUnet-SPM
+DiffUnet-SPM is a model for 3D spine CT image segmentation
+
+
+
 ## Requirements
 
 - Python3.8.10  
