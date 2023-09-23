@@ -8,7 +8,9 @@ DiffUnet-SPM is a model for 3D spine CT image segmentation
 - Python3.8.10  
 - Pytorch 1.8.1
 
-  `cd Diffunet-SPM`
+'''
+cd Diffunet-SPM
+'''
 
   `pip install -r requirements.txt`
 
