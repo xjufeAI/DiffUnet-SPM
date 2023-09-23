@@ -8,11 +8,13 @@ DiffUnet-SPM is a model for 3D spine CT image segmentation
 - Python3.8.10  
 - Pytorch 1.8.1
 
-'''
+```
 cd Diffunet-SPM
-'''
+```
 
-  `pip install -r requirements.txt`
+```
+pip install -r requirements.txt
+```
 
 
 
@@ -36,9 +38,13 @@ We use [nnUNet](https://github.com/MIC-DKFZ/nnUNet/tree/nnunetv1) for data prepr
 
 If you want to train the model from scratch:
 
-`cd Diffunet-SPM/VerSe2020`
+```
+cd Diffunet-SPM/VerSe2020
+```
 
-`python train.py`
+```
+python train.py
+```
 
 
 
@@ -46,7 +52,9 @@ If you want to train the model from scratch:
 
 When the model is trained, please modify the corresponding paths in the file.
 
-`python test.py`
+```
+python test.py
+```
 
 
 
